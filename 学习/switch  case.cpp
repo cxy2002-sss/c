@@ -25,5 +25,7 @@ int main(void)
 	case 5:
 	printf("Ëï¿µÒãµ½"); 
 	break;
+	default:printf("ÊäÈë´íÎó");
+	break;
 }
 }
